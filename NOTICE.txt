@@ -1,0 +1,12 @@
+Valkyrie GM
+Copyright 2016 Nathan Parslow.
+
+This product includes MS-PL licensed DotNetZip for Unity availble here:
+https://github.com/r2d2rigo/dotnetzip-for-unity
+The full licence is included in dotnetzip-license.rtf
+
+This product includes code derived from Unity Studio available here:
+https://github.com/RaduMC/UnityStudio
+
+This product includes code derived from .NET Ogg Vorbis Encoder available here:
+https://github.com/SteveLillis/.NET-Ogg-Vorbis-Encoder
